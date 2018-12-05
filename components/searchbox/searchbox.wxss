@@ -1,0 +1,10 @@
+/* components/searchbox.wxss */
+@import '../../weui.wxss'
+
+.bluebg {
+  
+  position:fixed;
+  z-index:5000;
+  overflow:hidden;
+  width:95%;
+}

@@ -1,0 +1,18 @@
+<!--components/searchbox.wxml-->
+<input value="{{stringValue}}" bindinput='inputSearchTyping'/>
+ <view class="weui-panel weui-panel_access bluebg" wx:if="{{showPanel}}">
+            <view class="weui-panel__hd">{{listtitle}}</view>
+            <view class="weui-panel__bd">
+                <view class="weui-media-box weui-media-box_text" wx:for="{{idnames}}" wx:key="id">
+
+                    <view class="weui-media-box__title weui-media-box__title_in-text" data-id="{{item.id}}" data-nm="{{item.nm}}" catchtap='onSearchItemTap'>{{item.nm}}</view>
+                    
+                </view>
+            </view>
+            <view class="weui-panel__ft">
+                <view class="weui-cell weui-cell_access weui-cell_link">
+                    <view class="weui-cell__bd" catchTap='onNextPage'>下一页...</view>
+                    <view class="weui-cell__ft weui-cell__ft_in-access"></view>
+                </view>
+            </view>
+  </view>
