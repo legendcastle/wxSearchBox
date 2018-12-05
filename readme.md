@@ -68,7 +68,7 @@ data:{
 
 这是在我的班级群接龙小程序“班级之星”里的应用截图，这里打个广告，如果您是小学生的家长，经常被家长群的接龙困扰的话，不妨推荐用一用哦^_^
 
-![image](https://github.com/legendcastle/wxSearchBox/blob/master/readmeimgs/cs.jpg)
+<img src="https://github.com/legendcastle/wxSearchBox/blob/master/readmeimgs/cs.jpg" width="300"/>
 
 ![image](https://github.com/legendcastle/wxSearchBox/blob/master/readmeimgs/csbarcode.jpg)
 
