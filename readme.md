@@ -24,7 +24,7 @@ e.detail.value，代表输入框中的最终文本值。
 
 
 1. 页面wxml文件中，示例如下：
-<searchbox  searchUrl="https://www.xxx.com/demoproject/querynames" bind:valueChangeEvent='onNameChange' />
+&lt;searchbox  searchUrl="https://www.xxx.com/demoproject/querynames" bind:valueChangeEvent='onNameChange' /&gt;
 
 2. 页面json文件中，示例如下：
 {
