@@ -64,10 +64,13 @@ data:{
 其中的nm值将展现在列表中。
 
 组件视觉效果：
-![image](http://github.com/legendcastle/wxSearchBox/raw/master/readmeimgs/searchbox.jpg)
+![image](https://github.com/legendcastle/wxSearchBox/blob/master/readmeimgs/searchbox.jpg)
+
 这是在我的班级群接龙小程序“班级之星”里的应用截图，这里打个广告，如果您是小学生的家长，经常被家长群的接龙困扰的话，不妨推荐用一用哦^_^
-![image](http://github.com/legendcastle/wxSearchBox/raw/master/readmeimgs/cs.jpg)
-![image](http://github.com/legendcastle/wxSearchBox/raw/master/readmeimgs/csbarcode.jpg)
+
+![image](https://github.com/legendcastle/wxSearchBox/blob/master/readmeimgs/cs.jpg)
+
+![image](https://github.com/legendcastle/wxSearchBox/blob/master/readmeimgs/csbarcode.jpg)
 
 
 
