@@ -64,7 +64,7 @@ data:{
 其中的nm值将展现在列表中。
 
 组件视觉效果：
-![image](https://github.com/legendcastle/wxSearchBox/blob/master/readmeimgs/searchbox.jpg)
+&lt;img src="https://github.com/legendcastle/wxSearchBox/blob/master/readmeimgs/searchbox.jpg" width="300"/&gt;
 
 这是在我的班级群接龙小程序“班级之星”里的应用截图，这里打个广告，如果您是小学生的家长，经常被家长群的接龙困扰的话，不妨推荐用一用哦^_^
 
